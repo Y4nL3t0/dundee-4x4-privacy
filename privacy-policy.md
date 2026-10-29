@@ -4,7 +4,7 @@ Last updated: October 29, 2026
 
 ## Developer and contact
 
-Dundee’s Games 4x4 (Android application `com.DundeesGames.FourByFour`) is provided by **Yan Letourneau**. For privacy questions or requests to access, correct or delete data, contact **yanletourneau+android@gmail.com**.
+Dundee’s Games 4x4 (Android application `com.DundeesGames.FourByFour`) is provided by **Dundee’s Games, developed by Yan Letourneau**. For privacy questions or requests to access, correct or delete data, contact **yanletourneau+android@gmail.com**.
 
 ## Data used and purposes
 
