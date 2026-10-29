@@ -44,7 +44,7 @@ When required and available in the menu, **Ad privacy choices** lets you review 
 
 To request access to, correction of or deletion of data under the developer’s control, email the contact above with the game’s name, your nickname and non-sensitive information that helps identify your request. Reasonable identity verification may be necessary, particularly for anonymous sessions. Never send passwords, card numbers or purchase tokens. We will explain which identifiable data we can delete and any retention obligations or limitations. Data managed directly by Google may require action in Google Play Games or Google account settings; deleting game data does not delete your Google account.
 
-This page also provides a web contact point for deletion requests. It does not imply that an account-deletion button currently exists in the app.
+For account and partial-data deletion requests, see [Account and data deletion](https://y4nl3t0.github.io/dundee-4x4-privacy/account-deletion.html). The Account & data menu in versions supporting this feature opens a request for manual processing; it does not delete data automatically.
 
 ## Children and changes
 
