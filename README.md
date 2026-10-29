@@ -1,11 +1,11 @@
-# Dundee’s Games 4x4 — Confidentialité
+# Dundee’s Games 4x4 — Privacy
 
-Page de confidentialité et contact pour les demandes relatives aux données.
+Privacy policy and contact for data requests.
 
-Développeur : Yan Letourneau  
-Contact : yanletourneau+android@gmail.com
+Developer: Yan Letourneau
 
-Ce dépôt contient uniquement des documents publics et une page HTML statique.
-Il ne contient ni le code Android du jeu ni des clés de signature.
+Contact: yanletourneau+android@gmail.com
 
-La page est publiée par GitHub Pages à partir de la racine de la branche `main`.
+https://y4nl3t0.github.io/dundee-4x4-privacy/privacy-policy.html
+
+This repository contains only public documents and a static webpage. It does not contain the Android game source or signing keys. GitHub Pages publishes the root of the main branch.
